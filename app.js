@@ -7,7 +7,6 @@ Todos.allow({
 Meteor.methods({
   addTodo: function(title) {
     var a =  Todos.insert({'title': title});
-    console.log('n8866666');
   }
 });
 
