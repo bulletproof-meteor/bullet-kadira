@@ -1,5 +1,3 @@
-# bullet-one: input validations
+# [Behind the Scenes in Meteor](https://bulletproofmeteor.com/basics/behind-the-scenes)
 
-This is a simple todo Meteor app which helps you to understand input validations.
-
-![Meteor Todo App Screenshot](https://i.cloudup.com/DCcBG58qYv.png)
+[![Behind the Scenes in Meteor](https://cldup.com/jfuM3Xb1hG.png)](https://bulletproofmeteor.com/basics/behind-the-scenes)
